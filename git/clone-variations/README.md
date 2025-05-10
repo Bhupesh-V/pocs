@@ -10,9 +10,14 @@ The script `clone-variations.sh` demonstrates different ways to clone a git repo
 
 ## Requirements
 
+A Unix-like environment with the following tools installed:
+
 - `Bash`
 - `Git`
-- `parallel`
+- GNU utils
+  - `parallel`
+  - `sort`
+  - `du`
 
 The script will take a loongish time to run, go listen to some music or something.
 
